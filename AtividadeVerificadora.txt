@@ -1,0 +1,8 @@
+Atividade verificadora de aprendizagem:
+
+1)
+(e) Ter como pré-requisito equipes tecnicamente muito qualificadas.
+2)
+(a) A escolha de um framework sempre deve levar em consideração as necessidades do projeto que se deseja implementar.
+Portanto essa escolha tem que estar baseada nas bibliotecas,
+documentação disponível e a linguagem de programação disponibilizadas para desenvolver o projeto.
